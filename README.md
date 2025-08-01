@@ -39,23 +39,6 @@ cd your-repo-name
 Launch Jupyter Notebook:
 
 
-jupyter notebook Hyperparameter_Tuning_for_NN.ipynb
-Follow the notebook cells to run the code step by step.
-
-🔍 Key Concepts Covered
-Hyperparameter tuning with Keras Tuner
-Using RandomSearch and Hyperband for optimization
-Monitoring validation loss and accuracy
-Model evaluation and visualization
-
-📈 Results
-The best-performing hyperparameter configurations are selected and the model is evaluated based on validation accuracy. Visualization charts help interpret how changes in learning rate, layer size, and number of layers impact model performance.
-
-📌 Future Work
-Expand tuning to include batch size, activation functions, and optimizers
-Use Bayesian Optimization and other search strategies
-Apply to more complex datasets (e.g., CIFAR-10, IMDB)
-
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or improve.
 
