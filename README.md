@@ -1,6 +1,6 @@
 # 🔧 Hyperparameter Tuning for Neural Networks
 
-This repository contains a Jupyter Notebook focused on exploring hyperparameter tuning techniques for improving the performance of neural networks. It utilizes `Keras` and `TensorFlow`, along with tuning tools such as `KerasTuner`, to find optimal configurations for building and training deep learning models.
+This repository contains a Jupyter Notebook focused on exploring hyperparameter tuning techniques for improving the performance of neural networks. It utilizes `Keras` and `TensorFlow`, along with tuning tools to find optimal configurations for building and training deep learning models.
 
 ## 📘 Overview
 
